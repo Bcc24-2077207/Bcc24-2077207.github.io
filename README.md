@@ -1,2 +1,2 @@
-# Bcc24-2077207.github.io
+# bcc24-2077207.github.io
 Info 101
